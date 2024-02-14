@@ -1,11 +1,11 @@
 # modular_app
- web app class
+                  Web app Class
 
  To start app: 
 
  Ensure that you are on the correct directory and run npm start.
 
- React Application Report
+                  React Application Report
 
 File Structure:
 
